@@ -1,19 +1,51 @@
-##
+# 👋 Olá! Eu sou o Victor Alves
 
-<div>
-    <a href="https://github.com/V1ct0rAlves">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=V1ct0rAlves&show_icons=true&theme=transparent&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1ct0rAlves&layout=compact&langs_count=8&theme=transparent">
+🎓 Formado em Análise e Desenvolvimento de Sistemas<br>
+🧑‍💻 Desenvolvedor Front-End<br>
+🚀 Em busca da minha primeira oportunidade profissional na área de tecnologia<br>
+
+---
+
+### 🛠️ Tecnologias que utilizo
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" title="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" title="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" title="GitHub"/>
+</p>
+
+---
+
+### 💼 Projetos em Destaque
+
+🔹 [Projeto Listagem Pokémon](https://v1ct0ralves.github.io/projeto-listagem-pokemon/)  
+> Feita com HTML, CSS e JavaScript puro. Design limpo e responsivo. E a API do pokemon.
+
+🔹 [Projeto Laiding Page The Last Of Us](https://v1ct0ralves.github.io/projeto-the-last-of-us/)  
+> Uma laiding page sobre a série de The Last Of Us.
+
+🔹 [Projeto Laiding Page One Piece](https://v1ct0ralves.github.io/projeto-one-piece/)  
+> Lainding Page responsiva sobre o anime One Piece.
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=V1ct0rAlves&show_icons=true&theme=tokyonight&include_all_commits=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1ct0rAlves&layout=compact&theme=tokyonight"/>
 </div>
 
-<div style="display: inline_block"><br>
-    <img align="center" alt="Victor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Victor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
+---
 
-##
+### 📫 Contato
 
-<div>
-    <a href="https://www.linkedin.com/in/victor-alves-3041b822a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div>
+- ✉️ V1ctorAlves@outlook.com 
+- 💼 [LinkedIn](https://www.linkedin.com/in/victor-alves-3041b822a/)
+
+---
+
+📌 *Estou sempre aberto a aprender, colaborar e crescer como desenvolvedor.*
+
