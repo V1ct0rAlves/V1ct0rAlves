@@ -18,19 +18,6 @@
 
 ---
 
-### 💼 Projetos em Destaque
-
-🔹 [Projeto Listagem Pokémon](https://v1ct0ralves.github.io/projeto-listagem-pokemon/)  
-> Feita com HTML, CSS e JavaScript puro. Design limpo e responsivo. E a API do pokemon.
-
-🔹 [Projeto Laiding Page The Last Of Us](https://v1ct0ralves.github.io/projeto-the-last-of-us/)  
-> Uma laiding page sobre a série de The Last Of Us.
-
-🔹 [Projeto Laiding Page One Piece](https://v1ct0ralves.github.io/projeto-one-piece/)  
-> Lainding Page responsiva sobre o anime One Piece.
-
----
-
 ### 📈 GitHub Stats
 
 <div align="center">
